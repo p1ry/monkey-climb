@@ -9,11 +9,6 @@ The Atari 2600 version of Donkey Kong, built from the ground up in Kaboom.js.
 
 Clone the project
 
-```bash
-  git clone https://github.com/supertorio/kaboom-donkey-kong
-```
-
-
 Install dependencies
 
 ```bash

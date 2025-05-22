@@ -21,14 +21,4 @@ Start the server
   npm run dev
 ```
 
-
-## Authors
-
-- [@supertorio](https://www.github.com/supertorio)
-
-
-## Acknowledgements
-
- - [Sprite sources from www.spriters-resource.com](https://www.spriters-resource.com/atari/)
- - [Audio sources from themushroomkingdom.net](https://themushroomkingdom.net/media/dk-a2600/wav)
  

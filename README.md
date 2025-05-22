@@ -1,5 +1,5 @@
 
-# Donkey Kong Kaboom.js
+# Monkey climb Kaboom.js
 
 The Atari 2600 version of Donkey Kong, built from the ground up in Kaboom.js.
 
@@ -13,11 +13,6 @@ Clone the project
   git clone https://github.com/supertorio/kaboom-donkey-kong
 ```
 
-Go to the project directory
-
-```bash
-  cd kaboom-donkey-kong
-```
 
 Install dependencies
 

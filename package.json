@@ -1,0 +1,22 @@
+{
+  "name": "kaboom-donkey-kong",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build --base=/kaboom-donkey-kong/",
+    "preview": "vite preview"
+  },
+  "author": "",
+  "license": "mit",
+  "dependencies": {
+    "kaboom": "^3000.1.17"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.2",
+    "typescript": "^5.1.6",
+    "vite": "^4.4.9"
+  }
+}

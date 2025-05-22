@@ -12,13 +12,13 @@ Clone the project
 Install dependencies
 
 ```bash
-  yarn
+  npm install
 ```
 
 Start the server
 
 ```bash
-  yarn start
+  npm run dev
 ```
 
 
